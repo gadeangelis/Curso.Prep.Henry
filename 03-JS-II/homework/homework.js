@@ -11,7 +11,7 @@ if (x > y){
  return y;
 
 }
-
+"prueba"
 
 function mayoriaDeEdad(edad) {
   //Determinar si la persona según su edad puede ingresar a un evento.
